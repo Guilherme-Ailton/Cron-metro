@@ -1,2 +1,2 @@
-# Cron-metro
+# Cronômetro
 Contador de Tempo
